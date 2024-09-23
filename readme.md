@@ -17,7 +17,7 @@
 ## 🚀 快速开始
 
 1. 确保您的浏览器已安装 Tampermonkey 插件。
-2. 点击 [这里](#) 安装脚本。
+2. 点击 [这里](#[text](https://www.tampermonkey.net/index.php?locale=zh)) 安装脚本。
 3. 打开我奥篮球的比赛详情页面。
 4. 享受便捷的视频数据提取体验！
 
@@ -59,14 +59,14 @@
 
 如果您有任何问题或建议，欢迎联系我们：
 
-- 项目地址：[https://github.com/yourusername/woao-basketball-extractor](https://github.com/yourusername/woao-basketball-extractor)
-- 电子邮件：your.email@example.com
+- 项目地址：[https://github.com/suckitfa/woao-basketball-video](https://github.com/suckitfa/woao-basketball-video)
+- 电子邮件：tangbob171@gmail.com
 
 ---
 
 💖 如果您喜欢这个项目，别忘了给我们一个星标！
 
-#我奥篮球 #篮球视频 #回放 #数据提取 #篮球分析
+#我奥篮球 #篮球视频 #回放 #数据提取 #篮球分析 #我奥篮球回放
 ### 全部代码
 
 ```js
@@ -352,4 +352,4 @@
     // 当页面加载完成时运行主函数
     window.addEventListener('load', main);
 })();
-```
+```# woao-basketball-video
